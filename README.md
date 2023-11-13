@@ -1,7 +1,8 @@
 
 # Multi-Faceted ChatGPT Extensions
-
 Welcome to my collection of specialized ChatGPT extensions, each designed to cater to specific interests and needs.
+
+<img src="github_readme_images/global_gpts.png" width="400">
 
 ## [NPC Crafter for RPG](https://chat.openai.com/g/g-7HC8U0EuN-npc-crafter)
 **Create Immersive NPCs for Your Role-Playing Games:** Unleash your imagination and enhance your tabletop RPG experience with tailored NPC (Non-Player Character) creation. This tool assists in generating unique and compelling characters to populate your game worlds.
